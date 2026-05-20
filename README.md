@@ -9,8 +9,8 @@ Aplicacion web CRUD diseñada con Laravel y MySQL.
 
 ## Instalación
 ``` bash
-git clone 
-cd
+git clone https://github.com/Leonardo1418/AgendaDeContactos.git
+cd AgendaDeContactos
 composer install
 cp .env.example .env
 php artisan key:generate
